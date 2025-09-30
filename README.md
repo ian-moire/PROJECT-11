@@ -28,13 +28,11 @@ The analysis involves the following:
 1. **Data Cleaning:** Handled missing values and outliers, and standardized indicator labels.
 2. **Exploratory Analysis:** Identified key trends by creating visualization distributions such as histograms, bar graphs, and scatterplot.
 3. **Feature Engineering:** Created calculated fields such as ratios and percentage features.
-## Significance
-This analysis provides a data-driven foundation for understanding literacy dynamics in Kenya. It highlights areas of progress, especially in gender equity and education access. The findings can support policymakers, educators, and development partners in designing targeted interventions that promote literacy growth.
-
-5. **Visualization:** Used Tableau to build dashboards including line charts, bar charts, scatterplots, and heatmaps.
+4. **Visualization:** Used Tableau to build dashboards including line charts, bar charts, scatterplots, and heatmaps.
 
 ## Significance
 This analysis provides a data-driven foundation for understanding literacy dynamics in Kenya. It highlights areas of progress, especially in gender equity and education access. The findings can support policymakers, educators, and development partners in designing targeted interventions that promote literacy growth.
+
 ## Conclusion
 This analysis reveals steady progress in literacy rates, with disparities across gender and education levels. By leveraging DHS and MIS survey data, a Tableau dashboard has been built to visualize trends, gaps, and performance. The findings offer a data-driven foundation for educational planning.
 
